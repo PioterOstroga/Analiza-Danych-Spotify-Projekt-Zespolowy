@@ -1,2 +1,2 @@
 # PROJEKT - CZYNNIKI DŁUGOWIECZNOŚCI
-Ćwiczenia 27/10
+Projekt na potrzeby przedmiotu - Analiza danych w Pythonie 2026
