@@ -1,2 +1,2 @@
-# 27-10_probne_repo
+# PROJEKT - CZYNNIKI DŁUGOWIECZNOŚCI
 Ćwiczenia 27/10
