@@ -104,7 +104,7 @@ def generuj_wizualizacje(df: pd.DataFrame):
 # --- GŁÓWNA PROCEDURA WYKONAWCZA ---
 if __name__ == "__main__":
     # Ścieżka do pliku CSV w repozytorium (dostosuj nazwę pliku do pobranego zbioru)
-    PLIK_DANYCH = "dataset.csv" 
+    PLIK_DANYCH = "melbourne_housing.csv" 
     
     try:
         # 1. Wrangling i Czyszczenie
@@ -125,3 +125,4 @@ if __name__ == "__main__":
         
     except FileNotFoundError:
         print(f"[BŁĄD] Nie znaleziono pliku '{PLIK_DANYCH}'. Umieść plik CSV w katalogu roboczym projektu.")
+        
